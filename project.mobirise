@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lift Services",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,8 +39,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "LIFT SERVICES - Strona Główna",
+        "meta_descr": "LIFT SERVICES jest pionierem w mobilnym serwisie wózków widłowych. Prowadzimy serwis, sprzedaż części oraz skup wózków widłowych.\nLIFT SERVICES Adrian Kuligowski",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -709,7 +709,7 @@
     },
     "page1.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
+        "meta_descr": "LIFT SERVICES jest pionierem w mobilnym serwisie wózków widłowych. Prowadzimy serwis, sprzedaż części oraz skup wózków widłowych.\nLIFT SERVICES Adrian Kuligowski",
         "title": "Cennik",
         "order": 3
       },
@@ -1335,7 +1335,7 @@
     },
     "page2.html": {
       "settings": {
-        "meta_descr": "Web Page Generator Description",
+        "meta_descr": "LIFT SERVICES jest pionierem w mobilnym serwisie wózków widłowych. Prowadzimy serwis, sprzedaż części oraz skup wózków widłowych.\nLIFT SERVICES Adrian Kuligowski",
         "title": "Kontakt",
         "order": 2
       },
@@ -1979,7 +1979,7 @@
     },
     "page3.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "LIFT SERVICES jest pionierem w mobilnym serwisie wózków widłowych. Prowadzimy serwis, sprzedaż części oraz skup wózków widłowych.\nLIFT SERVICES Adrian Kuligowski",
         "title": "O firmie",
         "order": 1
       },
